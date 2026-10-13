@@ -2,6 +2,10 @@
 
 **Flutter & Rust developer** from Loja, Ecuador. I build cross-platform apps with Flutter, back them with Supabase, and reach for Rust when performance matters.
 
+## Beyond code 🎸
+
+I play guitar, mostly **Chicago blues** and **Mississippi Delta blues**. I love improvising over the pentatonic scale and finding the note that says just enough. Coding and soloing feel alike: learn the rules well, then play with them.
+
 ## What I work with
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
