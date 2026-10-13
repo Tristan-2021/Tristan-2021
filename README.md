@@ -21,7 +21,6 @@
 | [**ruleta**](https://github.com/Tristan-2021/ruleta) | Multi-tenant loyalty roulette SaaS on Supabase. |
 | [**comparatasas-ec**](https://github.com/Tristan-2021/comparatasas-ec) | Loan-rate comparison for banks and cooperatives in Ecuador. |
 | [**rust_flutter_example**](https://github.com/Tristan-2021/rust_flutter_example) | Guide to calling Rust from Flutter through FFI. |
-| [**portafolio**](https://github.com/Tristan-2021/portafolio) | My personal portfolio. |
 
 ## Stats
 
