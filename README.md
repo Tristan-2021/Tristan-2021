@@ -24,6 +24,7 @@ I play guitar, mostly **Chicago blues** and **Mississippi Delta blues**. I love 
 | [**inventario**](https://github.com/Tristan-2021/inventario) | YapaStock: multi-tenant inventory for small markets (Flutter Web, Supabase, RLS). |
 | [**ruleta**](https://github.com/Tristan-2021/ruleta) | Multi-tenant loyalty roulette SaaS on Supabase. |
 | [**comparatasas-ec**](https://github.com/Tristan-2021/comparatasas-ec) | Loan-rate comparison for banks and cooperatives in Ecuador. |
+| [**testing-login-firebase**](https://github.com/Tristan-2021/testing-login-firebase) | Open-source guide to clean architecture in Flutter, with unit tests and widget tests on a Firebase login. |
 | [**rust_flutter_example**](https://github.com/Tristan-2021/rust_flutter_example) | Guide to calling Rust from Flutter through FFI. |
 
 ## Stats
